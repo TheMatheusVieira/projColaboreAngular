@@ -1,0 +1,32 @@
+/* Add application styles & imports to this file! */
+header {
+  background-color: #bdd3d9;
+  padding: 12px;
+  width: 100%;
+}
+
+a {
+  color: white;
+  font-weight: bold;
+  padding: 30px;
+  
+  padding-left: 140px;
+}
+
+h4{
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+  color: darkgrey;
+  font-size: 25px;
+  font-weight: 100;
+}
+
+div{
+  background-color: #bdd3d9;
+  width: 80%;
+  height: 200px;
+  border-radius: 30px;
+}
